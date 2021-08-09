@@ -1,4 +1,4 @@
-# sBlog
+# aBlog
 
 ## Build Setup
 
